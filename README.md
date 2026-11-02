@@ -38,11 +38,9 @@ rock-paper-scissor/
 ### Game Interface
 ![Rock Paper Scissors Game](screenshots/rock-paper-scissor.png)
 
-## Demo Video
+## Gameplay Demo
 
-Watch the gameplay demonstration:
-
-[View Auto Play Demo](screenshots/autoplay.mov)
+![Rock Paper Scissors Autoplay Demo](screenshots/autoplay.gif)
 
 ## How to Run
 
